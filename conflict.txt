@@ -1,1 +1,2 @@
-conflict
+
+No conflict
